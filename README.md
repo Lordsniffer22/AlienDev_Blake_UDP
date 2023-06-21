@@ -9,7 +9,7 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 
 ---
 ## Telegram: 
-see [commits](https://t.me/udpcustom)
+Click [Join the Chats](https://t.me/udpcustom)
 
 ---
 
