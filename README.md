@@ -5,7 +5,7 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 
 
 ---
-<center><img src="[https://user-images.githubusercontent.com/28264813/241795159-c294faa4-b0d6-43b3-82c4-3ba35db23823.gif](https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/bin/photo_2023-06-21_17-15-51.jpg)" alt="banner" width="400"/></center>
+<center><img src="https://github.com/Lordsniffer22/AlienDev_Blake_UDP/blob/main/bin/photo_2023-06-21_17-15-51.jpg?raw=true" alt="banner" width="400"/></center>
 
 ---
 ## Changelog: 
