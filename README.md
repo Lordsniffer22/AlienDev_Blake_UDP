@@ -8,14 +8,14 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 <center><img src="https://github.com/Lordsniffer22/AlienDev_Blake_UDP/blob/main/bin/photo_2023-06-21_17-15-51.jpg?raw=true" alt="banner" width="400"/></center>
 
 ---
-## Changelog: 
-see [commits](https://github.com/kmk101team/UDP-Custom-kmkz101-Team/commits/main)
+## Telegram: 
+see [commits](https://t.me/udpcustom)
 
 ---
 
 # Supported OS
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
-- [arm] ❌
+- [arm] not supported
 
 ## Install
 
@@ -30,7 +30,7 @@ see [commits](https://github.com/kmk101team/UDP-Custom-kmkz101-Team/commits/main
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/kmk101team/UDP-Custom-kmkz101-Team/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 <p align="center">
@@ -45,11 +45,13 @@ wget "https://raw.githubusercontent.com/kmk101team/UDP-Custom-kmkz101-Team/main/
  * Optional port exclude separated by coma, ex. 53,5300
 
 ## Telegram 
- > [KMKZ101](https://t.me/kmkz101)
+ > [KMKZ101](https://t.me/udpcustom)
 
 
 
 ## Credit
+ > [Blake (Translator)](https://t.me/tariusblake1)
+ > 
  > [ePro_Dev_Team](https://t.me/ePro_Dev_Team/141)
  > 
  > [@vp_voltssh](https://t.me/vp_voltssh)
