@@ -45,7 +45,7 @@ wget "https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/in
  * Optional port exclude separated by coma, ex. 53,5300
 
 ## Telegram 
- > [KMKZ101](https://t.me/udpcustom)
+ > [UDP CUSTOM](https://t.me/udpcustom)
 
 
 
