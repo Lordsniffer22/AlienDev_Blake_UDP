@@ -1,11 +1,11 @@
 ## UDP Custom & UDP Request - Installer and Manager 
-#### * Version ⇢ 2.5-Lite Author: VoltSSH
+#### * Version ⇢ 2.5-Lite Author: TARIUS BLAKE
 ---
 UDP (User Datagram Protocol) is a network communication protocol that operates on top of IP (Internet Protocol). It is a simpler protocol compared to TCP (Transmission Control Protocol), as it aims for speed rather than reliability.
 
 
 ---
-<center><img src="https://user-images.githubusercontent.com/28264813/241795159-c294faa4-b0d6-43b3-82c4-3ba35db23823.gif" alt="banner" width="400"/></center>
+<center><img src="[https://user-images.githubusercontent.com/28264813/241795159-c294faa4-b0d6-43b3-82c4-3ba35db23823.gif](https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/bin/photo_2023-06-21_17-15-51.jpg)" alt="banner" width="400"/></center>
 
 ---
 ## Changelog: 
