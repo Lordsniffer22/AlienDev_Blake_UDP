@@ -1,5 +1,5 @@
 ## UDP Custom & UDP Request - Installer and Manager 
-#### * Version ⇢ 2.5-Lite Author: TARIUS BLAKE
+#### * Version ⇢ 2.5-Lite   ReProgrammer: TARIUS BLAKE
 ---
 UDP (User Datagram Protocol) is a network communication protocol that operates on top of IP (Internet Protocol). It is a simpler protocol compared to TCP (Transmission Control Protocol), as it aims for speed rather than reliability.
 
@@ -58,8 +58,6 @@ wget "https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/in
  > 
  > [VoltSSH](https://t.me/VoltsshBot)
  > 
- > [@rudi9999]()
-
 #
   > _made from pieces with ❤️_
 #
