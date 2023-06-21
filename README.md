@@ -50,7 +50,7 @@ wget "https://raw.githubusercontent.com/Lordsniffer22/AlienDev_Blake_UDP/main/in
 
 
 ## Credit
- > [Blake (Translator)](https://t.me/tariusblake1)
+ > [Blake (Script Enhancer)](https://t.me/tariusblake1)
  > 
  > [ePro_Dev_Team](https://t.me/ePro_Dev_Team/141)
  > 
