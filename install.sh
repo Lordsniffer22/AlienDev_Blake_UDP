@@ -28,7 +28,7 @@ time_reboot() {
     : $((REBOOT_TIMEOUT--))
   done
   rm /home/ubuntu/install.sh
-  echo -e "\033[01;31m\033[1;33m More Updates, Follow Us On \033[1;31m(\033[1;36mTelegram\033[1;31m): \033[1;37mKMKZ101\033[0m"
+  echo -e "\033[01;31m\033[1;33m More Updates, Follow Us On \033[1;31m(\033[1;36mTelegram\033[1;31m): \033[1;37mUDP CUSTOM\033[0m"
   reboot
 }
 
@@ -48,12 +48,13 @@ else
   print_center -ama " ⇢ Installation begins...! <"
   sleep 3
 
-    # [change timezone to UTC +0]
-  echo ""
-  echo " ⇢ Change timezone to UTC +0"
-  echo " ⇢ for Africa/Accra [GH] GMT +00:00"
-  ln -fs /usr/share/zoneinfo/Africa/Accra /etc/localtime
-  sleep 3
+    # [change timezone to Nairobi]
+echo ""
+echo " ⇢ Change timezone to Nairobi"
+echo " ⇢ for East Africa Time (EAT) GMT +03:00"
+ln -fs /usr/share/zoneinfo/Africa/Nairobi /etc/localtime
+sleep 3
+
 
   # [+clean up+]
   rm -rf $udp_file &>/dev/null
